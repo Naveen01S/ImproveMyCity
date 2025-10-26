@@ -86,10 +86,7 @@ VITE_OPENAI_API_KEY=sk-your_openai_api_key
 4. Get the connection string
 5. Set up a backend API to handle MongoDB operations
 
-**Key to Add**:
-```env
-VITE_MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/improve-my-city
-```
+
 
 ## 🚀 Quick Setup Instructions
 
@@ -186,4 +183,5 @@ If you need help setting up any of these APIs, each service has excellent docume
 ---
 
 **Note**: The app works perfectly with just Supabase! All other APIs are optional enhancements.
+
 
